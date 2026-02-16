@@ -88,7 +88,3 @@ section {
 
 Trabajo hecho por: Andres Felipe Ramos Pineda
 link: https://dsaw-2026-1.github.io/my-cv-part-a-Andrew5331/
-
-- Piensa en un diseño limpio y profesional.
-- Utiliza recursos en línea como [Google Fonts](https://fonts.google.com/) para elegir una buena tipografía.
-- Experimenta con combinaciones de colores que sean agradables a la vista.
