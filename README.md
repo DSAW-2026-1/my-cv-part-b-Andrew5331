@@ -87,4 +87,4 @@ section {
 ¡Buena suerte y diviértanse creando su CV!
 
 Trabajo hecho por: Andres Felipe Ramos Pineda
-link: https://dsaw-2026-1.github.io/my-cv-part-a-Andrew5331/
+link: https://dsaw-2026-1.github.io/my-cv-part-b-Andrew5331/    
