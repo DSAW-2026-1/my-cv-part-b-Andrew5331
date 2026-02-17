@@ -87,4 +87,5 @@ section {
 ¡Buena suerte y diviértanse creando su CV!
 
 Trabajo hecho por: Andres Felipe Ramos Pineda
+<img width="1918" height="1078" alt="Captura1" src="https://github.com/user-attachments/assets/2d518ac3-878b-4776-8f99-d01b0d4d0c4e" />
 link: https://dsaw-2026-1.github.io/my-cv-part-b-Andrew5331/    
