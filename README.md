@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sLLxdbNJ)
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7-4AltFg)
 # Bienvenidos a la Tarea de HTML y CSS
 
@@ -88,4 +89,7 @@ section {
 
 Trabajo hecho por: Andres Felipe Ramos Pineda
 <img width="1918" height="1078" alt="Captura1" src="https://github.com/user-attachments/assets/2d518ac3-878b-4776-8f99-d01b0d4d0c4e" />
+<img width="1885" height="908" alt="Foto_rana_win" src="https://github.com/user-attachments/assets/c28247d8-54ff-4169-8b32-cf4106b3e8e7" />
+<img width="1917" height="990" alt="Foto_zanahoria_win" src="https://github.com/user-attachments/assets/23ba9ff3-eb49-4724-958a-a88012c8ec3d" />
+
 link: https://dsaw-2026-1.github.io/my-cv-part-b-Andrew5331/    
